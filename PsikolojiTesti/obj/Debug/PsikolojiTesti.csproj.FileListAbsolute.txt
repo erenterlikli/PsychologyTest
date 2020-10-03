@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\PsikolojiTesti\PsikolojiTesti\bin\Debug\PsikolojiTesti.exe.config
+C:\Users\Eren\source\repos\PsikolojiTesti\PsikolojiTesti\bin\Debug\PsikolojiTesti.exe
+C:\Users\Eren\source\repos\PsikolojiTesti\PsikolojiTesti\bin\Debug\PsikolojiTesti.pdb
+C:\Users\Eren\source\repos\PsikolojiTesti\PsikolojiTesti\obj\Debug\PsikolojiTesti.Form1.resources
+C:\Users\Eren\source\repos\PsikolojiTesti\PsikolojiTesti\obj\Debug\PsikolojiTesti.Properties.Resources.resources
+C:\Users\Eren\source\repos\PsikolojiTesti\PsikolojiTesti\obj\Debug\PsikolojiTesti.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\PsikolojiTesti\PsikolojiTesti\obj\Debug\PsikolojiTesti.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\PsikolojiTesti\PsikolojiTesti\obj\Debug\PsikolojiTesti.exe
+C:\Users\Eren\source\repos\PsikolojiTesti\PsikolojiTesti\obj\Debug\PsikolojiTesti.pdb
+C:\Users\Eren\source\repos\PsikolojiTesti\PsikolojiTesti\obj\Debug\PsikolojiTesti.csprojAssemblyReference.cache
